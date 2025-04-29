@@ -31,4 +31,12 @@
 # Evaluation metric for different masks and images
 * Run `python Evaluation_cross_masks.py`
 
+## CelebAMask-HQ Dataset Downloads
+* Google Drive: [downloading link](https://drive.google.com/open?id=1badu11NqxGf6qM3PTTooQDJvQbejgbTv)
 
+## Download Checkpoint
+* Download the checkpoint file [here](https://drive.google.com/file/d/1AjhjO4tmIdTESQvFVX8Eaq06FkVEmxgo/view?usp=sharing)
+
+## Well-trained model
+* The model can be downloaded [here](https://drive.google.com/file/d/1o1m-eT38zNCIFldcRaoWcLvvBtY8S4W3/view?usp=sharing).
+* The model (`model.pth`) should be put under `./models/parsenet`
